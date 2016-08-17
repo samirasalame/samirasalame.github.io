@@ -1,7 +1,7 @@
 /**
  * Keith O'Hara <kohara@bard.edu>
  * July 2016
- * ported ELIZA (https://github.com/dhconnelly/paip-python) to javascript;
+ * ported Angelica (https://github.com/dhconnelly/paip-python) to javascript;
  * from that program:
  * 
  *  "Eliza is a pattern-matching automated psychiatrist. Given a set
