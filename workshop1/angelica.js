@@ -66,6 +66,11 @@ var rules = {
     "What would it mean if you got ~y?",
     "Why do you want ~y?",
     "Suppose you got ~y soon.",
+    
+  ],
+  "~*x Alexander ~*y": [
+  	"I'll never forget the first time I saw his face.",
+    
   ],
     "~*x I need ~*y": [
     "What would it mean if you got ~y?",
@@ -109,6 +114,7 @@ var rules = {
   "~*x I am sad ~*y": [
     "I am sorry to hear you are depressed",
     "I'm sure it's not pleasant to be sad",
+    "Why are you sad?",
   ],
   "~*x are like ~*y": [
     "What resemblence do you see between ~x and ~y?",
